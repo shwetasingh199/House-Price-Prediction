@@ -112,7 +112,7 @@ House-Price-Prediction/
 
 ### 🔹 dataset_preview
 
-![dataset_preview](images/dataset_preview.png)
+![dataset_preview](images/dataset_preview(2).png)
 
 ### 🔹 summary_statics
 

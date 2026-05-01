@@ -1,9 +1,5 @@
 # 🏠 House Price Prediction using Machine Learning
 
-![App Banner](images/app_ui.png)
-
----
-
 ## 📌 Project Overview
 
 This project builds an **end-to-end Machine Learning system** to predict house prices based on property features like area, location, number of bedrooms, and more.
